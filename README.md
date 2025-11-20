@@ -37,8 +37,8 @@ This game is commonly used to teach probability and strategic decision-making in
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/greedy-pig.git
-cd greedy-pig
+git clone https://github.com/SupaM1/Greedy_Pig.git
+cd Greedy_Pig
 ```
 
 2. Run the game:
