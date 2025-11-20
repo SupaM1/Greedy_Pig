@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![GitHub release](https://img.shields.io/github/v/release/SupaM1/Greedy_Pig)
 # 🐷 Greedy Pig Dice Game
 
 A Python implementation of the classic probability dice game that tests your greed against your wisdom!
