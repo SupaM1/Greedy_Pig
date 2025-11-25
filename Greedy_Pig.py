@@ -36,5 +36,5 @@ while True:
     print ("Round", RoundNumber, ":")
     print(   "Dice:", DiceNumber)    
     Score = Score + DiceNumber
-    if input("Sit or Stay? 1. Sit 2. Stay") == 2 :
+    if input("Sit or Stay? 1. Sit 2. Stay") == 1 :
         GAME_OVER
